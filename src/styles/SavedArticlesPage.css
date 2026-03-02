@@ -1,0 +1,15 @@
+.no-articles {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #666;
+}
+
+.no-articles p {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.no-articles p:last-child {
+  color: #888;
+  font-size: 1rem;
+}
